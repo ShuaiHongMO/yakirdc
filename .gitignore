@@ -1,5 +1,5 @@
 mysql_data/
-zk1/
+zk/zk1/datalog/
 canal_*/logs
 canal_*/conf/*/h2.mv.db
 es*/*/data
@@ -8,3 +8,5 @@ rmq/logs
 rmq/store
 odoo/odoo-web-data
 odoo/pgdata
+space/es00
+redis/data/
